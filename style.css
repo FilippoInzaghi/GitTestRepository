@@ -21,7 +21,7 @@ top: 50%;
 transform: translate(-50%, -50%)
 }
 
-@media (max-width: 400px){
+@media (max-width: 300px){
   .police{
     font-size: 48px;
   }
