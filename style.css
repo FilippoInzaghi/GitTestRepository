@@ -1,8 +1,22 @@
+*{
+margin: 0
+}
 .Test{
 height: 100vh;
-background-color: red
+background-color: red;
+position: relative
 }
 
 .Test.active{
-background-color: black
+background-color: blue
+}
+
+.police{
+color: white;
+font-size: 144px;
+font-family: arial;
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%)
 }
